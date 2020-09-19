@@ -1,4 +1,5 @@
 # fully_trained_ai
+### This is just a simple model to reconize digit hand writting
 ""The file 'nn' is a virtural enviroment file for mac os. 
 To activate: go to the folder that contain the 'nn' file in the terminal => in the terminal type " source nn/bin/activate " to activate the virtual env
 If you use Window, you should know how to creat virtual enviroment and install 4 libary: numpy, scipy, idx2numpy, matplotlib.""
